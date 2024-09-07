@@ -21,7 +21,7 @@ Urbane Stablecoin is a fiat-pegged cryptocurrency built on the Ethereum blockcha
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/urbane-stablecoin.git
+   git clone https://github.com/adityar2705/urbane-stablecoin.git
    cd urbane-stablecoin
    ```
 
